@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+    border: 2px double cornflowerblue;
+}
+
+.jeanClaude{
+    width: 600px;
+    height: 100px;
+    border: 6px solid black;
+}
